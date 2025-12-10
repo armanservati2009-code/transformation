@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Style Transformer",
+  "description": "Upload photos and transform them into different artistic styles like Cartoon, Cyberpunk, and Watercolor using Gemini 2.5 Flash Image. Also includes detailed image analysis with Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
